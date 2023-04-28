@@ -13,5 +13,8 @@ public class AtmApp {
         //env1
         System.out.println("");
         //env3
+        System.out.println();
+        if(true){}
+        System.out.println();
     }
 }
