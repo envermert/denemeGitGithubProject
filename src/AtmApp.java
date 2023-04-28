@@ -16,5 +16,7 @@ public class AtmApp {
         System.out.println();
         if(true){}
         System.out.println();
+        
+        //remote repoda degisiklik yaptim.
     }
 }
